@@ -29,6 +29,7 @@ palette:
   visual_grey: "#3E4452"
   menu_grey: "#282C34"
   special_grey: "#3B4048"
+  vertsplit: "#5C6370"
 
 highlights:
   Normal: "fg bg"
@@ -78,6 +79,7 @@ highlights:
   DiffDelete: "bg nord11"
   DiffText: "bg nord13"
   ErrorMsg: "nord11"
+  VertSplit: "vertsplit"
   nord4: "nord4"
   Folded: "line_grey"
   FoldColumn: ""
